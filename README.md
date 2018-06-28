@@ -6,7 +6,7 @@ Proyecto trabajo final MPST en Shiny. Constituye un paquete en lenguaje R que pe
 ## Instalación
 Ejecute el siguiente comando en la consola de R o RStudio:
 ```r
-devtools::install_github("petusan36/mpstshiny")
+devtools::install_github("dazulu4/mpstshiny")
 ```
 Dentro de la consola de R o RStudio invocar la siguiente función para abrir la aplicación Shiny:
 ```r
